@@ -1,0 +1,1 @@
+A few examples for mavenized SmartGwt training projects.
